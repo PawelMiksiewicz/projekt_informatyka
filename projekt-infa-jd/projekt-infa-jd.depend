@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1523124134 source:c:\users\pawe³ miksiewicz\desktop\codeblocks\projekt infa\projekt v1\projekt-infa-jd\main.cpp
+	<iostream>
+	<math.h>
+	<cmath>
+	<vector>
+	"matematyka.h"
+
+1523123725 c:\users\pawe³ miksiewicz\desktop\codeblocks\projekt infa\projekt v1\projekt-infa-jd\matematyka.h
+
+1523123725 source:c:\users\pawe³ miksiewicz\desktop\codeblocks\projekt infa\projekt v1\projekt-infa-jd\matematyka.cpp
+	<vector>
+	<cmath>
+
